@@ -12,8 +12,7 @@ Brunch와 Medium 서비스를 모티브로 제작하였습니다.
 
 ### :ballot_box_with_check: ​전체적인 구조 (예상)
 
-<img src="../geulteo_preStructure.png" width="70%"> 
-
+![geulteo_preStructure](https://user-images.githubusercontent.com/48677101/114451680-7cad2b00-9c12-11eb-9c5e-fe37139c8c1a.png)
 * (Firebase는 제외될 수도 있어 우선 점선으로 처리하였습니다.)
 
 
@@ -43,7 +42,7 @@ Java, Spring Boot, IntelliJ, Gradle, MySQL, Redis, Nginx, Firebase, Jenkins, Doc
 
 Git Flow 브랜치 전략을 사용하여 작업 및 버전 관리를 학습할 예정입니다.
 
-<img src="../git-flow_branch_model.png" width="60%" align="left">
+![git-flow_branch_model](https://user-images.githubusercontent.com/48677101/114451748-93538200-9c12-11eb-99cd-26f3c837b342.png)
 
 - Master : 이미 배포했거나 곧 배포할 코드를 관리합니다.
 - Develop : 배포할 것을 개발하는 코드를 관리합니다. 배포할 준비가 되면 Master로 merge합니다.
